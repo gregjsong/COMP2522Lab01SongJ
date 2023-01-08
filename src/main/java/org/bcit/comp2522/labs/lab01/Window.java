@@ -4,6 +4,9 @@ import processing.core.PApplet;
 
 /**
  * Window creates a window with an image of a simple Pacman game.
+ *
+ * @author Greg Song
+ * @version 1.0
  */
 public class Window extends PApplet {
 
